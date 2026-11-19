@@ -1,0 +1,1054 @@
+{
+  "source": "https://vk.ru/stolovaya_appetite",
+  "published": "2026-09-30",
+  "items": [
+    {
+      "name": "Ассорти",
+      "section": "Пицца, 30 см",
+      "priceLabel": "500 ₽",
+      "description": ""
+    },
+    {
+      "name": "Сервелатная с маслинами",
+      "section": "Пицца, 30 см",
+      "priceLabel": "600 ₽",
+      "description": ""
+    },
+    {
+      "name": "Сырная с ветчиной",
+      "section": "Пицца, 30 см",
+      "priceLabel": "600 ₽",
+      "description": ""
+    },
+    {
+      "name": "Жульен",
+      "section": "Пицца, 30 см",
+      "priceLabel": "800 ₽",
+      "description": ""
+    },
+    {
+      "name": "Маргарита",
+      "section": "Пицца, 30 см",
+      "priceLabel": "500 ₽",
+      "description": ""
+    },
+    {
+      "name": "Острая",
+      "section": "Пицца, 30 см",
+      "priceLabel": "600 ₽",
+      "description": ""
+    },
+    {
+      "name": "4 мяса",
+      "section": "Пицца, 30 см",
+      "priceLabel": "800 ₽",
+      "description": ""
+    },
+    {
+      "name": "4 сыра",
+      "section": "Пицца, 30 см",
+      "priceLabel": "800 ₽",
+      "description": ""
+    },
+    {
+      "name": "Грибная",
+      "section": "Пицца, 30 см",
+      "priceLabel": "600 ₽",
+      "description": ""
+    },
+    {
+      "name": "Рыбная",
+      "section": "Пицца, 30 см",
+      "priceLabel": "800 ₽",
+      "description": ""
+    },
+    {
+      "name": "Заливной с фруктами",
+      "section": "Сладкие пироги, 1 кг",
+      "priceLabel": "500 ₽",
+      "description": ""
+    },
+    {
+      "name": "С фруктами из слоёного теста",
+      "section": "Сладкие пироги, 1 кг",
+      "priceLabel": "600 ₽",
+      "description": ""
+    },
+    {
+      "name": "Разборник",
+      "section": "Сладкие пироги, 1 кг",
+      "priceLabel": "500 ₽",
+      "description": ""
+    },
+    {
+      "name": "Манник",
+      "section": "Сладкие пироги, 1 кг",
+      "priceLabel": "350 ₽",
+      "description": ""
+    },
+    {
+      "name": "Шарлотка с фруктами, торт зебра или кекс с изюмом",
+      "section": "Сладкие пироги, 1 кг",
+      "priceLabel": "650 ₽",
+      "description": ""
+    },
+    {
+      "name": "Творожная шарлотка с фруктами",
+      "section": "Сладкие пироги, 1 кг",
+      "priceLabel": "750 ₽",
+      "description": ""
+    },
+    {
+      "name": "Курица, картофель и лук",
+      "section": "Пироги на заказ, 1 кг",
+      "priceLabel": "650 ₽",
+      "description": ""
+    },
+    {
+      "name": "Мясо и лук",
+      "section": "Пироги на заказ, 1 кг",
+      "priceLabel": "550 / 650 ₽",
+      "description": ""
+    },
+    {
+      "name": "Мясо, картофель и лук",
+      "section": "Пироги на заказ, 1 кг",
+      "priceLabel": "500 / 600 ₽",
+      "description": ""
+    },
+    {
+      "name": "Мясо и капуста",
+      "section": "Пироги на заказ, 1 кг",
+      "priceLabel": "500 / 600 ₽",
+      "description": ""
+    },
+    {
+      "name": "Ветчина, картофель и лук",
+      "section": "Пироги на заказ, 1 кг",
+      "priceLabel": "400 ₽",
+      "description": ""
+    },
+    {
+      "name": "Говяжья печень, рис и лук",
+      "section": "Пироги на заказ, 1 кг",
+      "priceLabel": "400 / 600 ₽",
+      "description": ""
+    },
+    {
+      "name": "Горбуша или кета с луком",
+      "section": "Пироги на заказ, 1 кг",
+      "priceLabel": "900 ₽",
+      "description": ""
+    },
+    {
+      "name": "Горбуша, рис и лук",
+      "section": "Пироги на заказ, 1 кг",
+      "priceLabel": "850 ₽",
+      "description": ""
+    },
+    {
+      "name": "Минтай с луком",
+      "section": "Пироги на заказ, 1 кг",
+      "priceLabel": "650 ₽",
+      "description": ""
+    },
+    {
+      "name": "Минтай, рис и лук",
+      "section": "Пироги на заказ, 1 кг",
+      "priceLabel": "600 ₽",
+      "description": ""
+    },
+    {
+      "name": "Скумбрия или терпуг с луком",
+      "section": "Пироги на заказ, 1 кг",
+      "priceLabel": "800 ₽",
+      "description": ""
+    },
+    {
+      "name": "Скумбрия или терпуг с рисом и луком",
+      "section": "Пироги на заказ, 1 кг",
+      "priceLabel": "750 ₽",
+      "description": ""
+    },
+    {
+      "name": "Рыбная консерва, картофель и лук",
+      "section": "Пироги на заказ, 1 кг",
+      "priceLabel": "750 ₽",
+      "description": ""
+    },
+    {
+      "name": "Рыбная консерва, рис и лук",
+      "section": "Пироги на заказ, 1 кг",
+      "priceLabel": "720 ₽",
+      "description": ""
+    },
+    {
+      "name": "Капуста",
+      "section": "Пироги на заказ, 1 кг",
+      "priceLabel": "350 ₽",
+      "description": ""
+    },
+    {
+      "name": "Капуста с яйцом",
+      "section": "Пироги на заказ, 1 кг",
+      "priceLabel": "380 ₽",
+      "description": ""
+    },
+    {
+      "name": "Картофель и лук",
+      "section": "Пироги на заказ, 1 кг",
+      "priceLabel": "350 ₽",
+      "description": ""
+    },
+    {
+      "name": "Открытый с картофелем и луком",
+      "section": "Пироги на заказ, 1 кг",
+      "priceLabel": "400 ₽",
+      "description": ""
+    },
+    {
+      "name": "Картофель, грибы и лук",
+      "section": "Пироги на заказ, 1 кг",
+      "priceLabel": "450 ₽",
+      "description": ""
+    },
+    {
+      "name": "Зелёный лук и яйцо",
+      "section": "Пироги на заказ, 1 кг",
+      "priceLabel": "500 ₽",
+      "description": ""
+    },
+    {
+      "name": "Зелёный лук, яйцо и рис",
+      "section": "Пироги на заказ, 1 кг",
+      "priceLabel": "500 ₽",
+      "description": ""
+    },
+    {
+      "name": "Картофельное пюре",
+      "section": "Гарниры",
+      "priceLabel": "60 ₽",
+      "description": "150 г"
+    },
+    {
+      "name": "Макароны",
+      "section": "Гарниры",
+      "priceLabel": "50 ₽",
+      "description": "150 г"
+    },
+    {
+      "name": "Греча рассыпчатая",
+      "section": "Гарниры",
+      "priceLabel": "55 ₽",
+      "description": "150 г"
+    },
+    {
+      "name": "Греча с овощами",
+      "section": "Гарниры",
+      "priceLabel": "60 ₽",
+      "description": "150 г"
+    },
+    {
+      "name": "Рис «Мозаика»",
+      "section": "Гарниры",
+      "priceLabel": "70 ₽",
+      "description": "150 г"
+    },
+    {
+      "name": "Рис отварной",
+      "section": "Гарниры",
+      "priceLabel": "60 ₽",
+      "description": "150 г"
+    },
+    {
+      "name": "Рис «Резотто»",
+      "section": "Гарниры",
+      "priceLabel": "80 ₽",
+      "description": "150 г"
+    },
+    {
+      "name": "Капуста тушёная или жареная",
+      "section": "Гарниры",
+      "priceLabel": "60 ₽",
+      "description": "150 г"
+    },
+    {
+      "name": "Овощной микс на пару или гриль",
+      "section": "Гарниры",
+      "priceLabel": "80 / 90 ₽",
+      "description": "150 г"
+    },
+    {
+      "name": "Овощное рагу в ассортименте",
+      "section": "Гарниры",
+      "priceLabel": "60 / 80 ₽",
+      "description": "150 г"
+    },
+    {
+      "name": "Картофель отварной со сливочным маслом",
+      "section": "Гарниры",
+      "priceLabel": "60 ₽",
+      "description": "150 г"
+    },
+    {
+      "name": "Картофель отварной с луком и сливочным маслом",
+      "section": "Гарниры",
+      "priceLabel": "60 ₽",
+      "description": "150 г"
+    },
+    {
+      "name": "Кабачок или цукини гриль / запечённый",
+      "section": "Гарниры",
+      "priceLabel": "60 / 90 ₽",
+      "description": "150 г"
+    },
+    {
+      "name": "Картофельные дольки",
+      "section": "Гарниры",
+      "priceLabel": "80 ₽",
+      "description": "150 г"
+    },
+    {
+      "name": "Картофельный холодец",
+      "section": "Гарниры",
+      "priceLabel": "60 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Куриный с домашней лапшой",
+      "section": "Супы",
+      "priceLabel": "80 ₽",
+      "description": "200 г"
+    },
+    {
+      "name": "Куриный с вермишелью и картофелем",
+      "section": "Супы",
+      "priceLabel": "80 ₽",
+      "description": "200 г"
+    },
+    {
+      "name": "Куриный с клёцками",
+      "section": "Супы",
+      "priceLabel": "80 ₽",
+      "description": "200 г"
+    },
+    {
+      "name": "Картофельный с фрикадельками",
+      "section": "Супы",
+      "priceLabel": "90 ₽",
+      "description": "200 г"
+    },
+    {
+      "name": "Суп-пюре с гренками",
+      "section": "Супы",
+      "priceLabel": "80 ₽",
+      "description": "200 г"
+    },
+    {
+      "name": "Тыквенный крем-суп с гренками",
+      "section": "Супы",
+      "priceLabel": "100 ₽",
+      "description": "200 г"
+    },
+    {
+      "name": "Сырный с гренками",
+      "section": "Супы",
+      "priceLabel": "90 ₽",
+      "description": "200 г"
+    },
+    {
+      "name": "Гороховый с копчёностями",
+      "section": "Супы",
+      "priceLabel": "120 ₽",
+      "description": "200 г"
+    },
+    {
+      "name": "Щи из свежей капусты",
+      "section": "Супы",
+      "priceLabel": "80 ₽",
+      "description": "200 г"
+    },
+    {
+      "name": "Борщ из свежей капусты",
+      "section": "Супы",
+      "priceLabel": "80 ₽",
+      "description": "200 г"
+    },
+    {
+      "name": "Рассольник",
+      "section": "Супы",
+      "priceLabel": "80 ₽",
+      "description": "200 г"
+    },
+    {
+      "name": "Харчо",
+      "section": "Супы",
+      "priceLabel": "80 ₽",
+      "description": "200 г"
+    },
+    {
+      "name": "Испанский с охотничьими колбасками",
+      "section": "Супы",
+      "priceLabel": "150 ₽",
+      "description": "200 г"
+    },
+    {
+      "name": "Лагман",
+      "section": "Супы",
+      "priceLabel": "140 / 250 ₽",
+      "description": "200 г"
+    },
+    {
+      "name": "Солянка по-домашнему",
+      "section": "Супы",
+      "priceLabel": "160 ₽",
+      "description": "200 г"
+    },
+    {
+      "name": "Солянка сборная",
+      "section": "Супы",
+      "priceLabel": "200 ₽",
+      "description": "200 г"
+    },
+    {
+      "name": "Солянка рыбная",
+      "section": "Супы",
+      "priceLabel": "200 ₽",
+      "description": "200 г"
+    },
+    {
+      "name": "Рыбный суп",
+      "section": "Супы",
+      "priceLabel": "80 / 200 ₽",
+      "description": "200 г"
+    },
+    {
+      "name": "Уха с яйцом",
+      "section": "Супы",
+      "priceLabel": "80 ₽",
+      "description": "200 г"
+    },
+    {
+      "name": "Гречневый с курицей",
+      "section": "Супы",
+      "priceLabel": "80 ₽",
+      "description": "200 г"
+    },
+    {
+      "name": "Рисовый с курицей",
+      "section": "Супы",
+      "priceLabel": "80 ₽",
+      "description": "200 г"
+    },
+    {
+      "name": "Фасолевый с курицей",
+      "section": "Супы",
+      "priceLabel": "80 ₽",
+      "description": "200 г"
+    },
+    {
+      "name": "Овощной суп-пюре",
+      "section": "Супы",
+      "priceLabel": "80 ₽",
+      "description": "200 г"
+    },
+    {
+      "name": "Грибной крем-суп с гренками",
+      "section": "Супы",
+      "priceLabel": "120 ₽",
+      "description": "200 г"
+    },
+    {
+      "name": "Грибной крем-суп с курицей",
+      "section": "Супы",
+      "priceLabel": "100 ₽",
+      "description": "200 г"
+    },
+    {
+      "name": "Грибовница по-домашнему",
+      "section": "Супы",
+      "priceLabel": "90 ₽",
+      "description": "200 г"
+    },
+    {
+      "name": "Капустный",
+      "section": "Салаты",
+      "priceLabel": "60 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Капустный с яйцом",
+      "section": "Салаты",
+      "priceLabel": "65 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Сезонный",
+      "section": "Салаты",
+      "priceLabel": "60 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Винегрет",
+      "section": "Салаты",
+      "priceLabel": "60 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Винегрет с сельдью",
+      "section": "Салаты",
+      "priceLabel": "70 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Деревенский",
+      "section": "Салаты",
+      "priceLabel": "60 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Овощной",
+      "section": "Салаты",
+      "priceLabel": "70 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Из свежих овощей",
+      "section": "Салаты",
+      "priceLabel": "70 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Греческий",
+      "section": "Салаты",
+      "priceLabel": "100 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Коктейль с ветчиной",
+      "section": "Салаты",
+      "priceLabel": "80 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Пикантный",
+      "section": "Салаты",
+      "priceLabel": "80 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Русская красавица",
+      "section": "Салаты",
+      "priceLabel": "80 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Оливье",
+      "section": "Салаты",
+      "priceLabel": "70 / 120 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Клёво",
+      "section": "Салаты",
+      "priceLabel": "90 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Леди",
+      "section": "Салаты",
+      "priceLabel": "90 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Дамский каприз",
+      "section": "Салаты",
+      "priceLabel": "90 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Цезарь с курицей",
+      "section": "Салаты",
+      "priceLabel": "120 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Цезарь с морепродуктами",
+      "section": "Салаты",
+      "priceLabel": "150 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Кайф",
+      "section": "Салаты",
+      "priceLabel": "90 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Маркиза",
+      "section": "Салаты",
+      "priceLabel": "90 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Обжорка",
+      "section": "Салаты",
+      "priceLabel": "90 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Наполеон",
+      "section": "Салаты",
+      "priceLabel": "130 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Гурман",
+      "section": "Салаты",
+      "priceLabel": "150 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Гнездо глухаря",
+      "section": "Салаты",
+      "priceLabel": "100 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Зелёное море",
+      "section": "Салаты",
+      "priceLabel": "90 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Сельдь под шубой",
+      "section": "Салаты",
+      "priceLabel": "80 / 90 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Крабовый классический",
+      "section": "Салаты",
+      "priceLabel": "70 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Мимоза с рыбными консервами",
+      "section": "Салаты",
+      "priceLabel": "80 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Красное море",
+      "section": "Салаты",
+      "priceLabel": "70 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Сельдь с гарниром",
+      "section": "Салаты",
+      "priceLabel": "75 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Лисья шубка",
+      "section": "Салаты",
+      "priceLabel": "80 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Садко",
+      "section": "Салаты",
+      "priceLabel": "110 / 180 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Фруктовый",
+      "section": "Салаты",
+      "priceLabel": "90 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Мюнхен",
+      "section": "Салаты",
+      "priceLabel": "90 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Морской",
+      "section": "Салаты",
+      "priceLabel": "200 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Комплимент",
+      "section": "Салаты",
+      "priceLabel": "200 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Тбилиси",
+      "section": "Салаты",
+      "priceLabel": "120 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Принц",
+      "section": "Салаты",
+      "priceLabel": "120 ₽",
+      "description": "100 г"
+    },
+    {
+      "name": "Голубцы ленивые с соусом",
+      "section": "Горячие блюда",
+      "priceLabel": "90 ₽",
+      "description": ""
+    },
+    {
+      "name": "Голубцы овощные в соусе",
+      "section": "Горячие блюда",
+      "priceLabel": "90 ₽",
+      "description": ""
+    },
+    {
+      "name": "Курица «Кореянка»",
+      "section": "Горячие блюда",
+      "priceLabel": "250 ₽",
+      "description": ""
+    },
+    {
+      "name": "Стожок",
+      "section": "Горячие блюда",
+      "priceLabel": "220 ₽",
+      "description": ""
+    },
+    {
+      "name": "Минтай жареный",
+      "section": "Горячие блюда",
+      "priceLabel": "80 ₽",
+      "description": ""
+    },
+    {
+      "name": "Филе минтая в кляре",
+      "section": "Горячие блюда",
+      "priceLabel": "120 ₽",
+      "description": ""
+    },
+    {
+      "name": "Филе минтая в картофельной корочке",
+      "section": "Горячие блюда",
+      "priceLabel": "140 ₽",
+      "description": ""
+    },
+    {
+      "name": "Минтай в сметанном соусе",
+      "section": "Горячие блюда",
+      "priceLabel": "120 ₽",
+      "description": ""
+    },
+    {
+      "name": "Филе минтая под шубкой",
+      "section": "Горячие блюда",
+      "priceLabel": "130 ₽",
+      "description": ""
+    },
+    {
+      "name": "Стейк горбуши на гриле",
+      "section": "Горячие блюда",
+      "priceLabel": "200 ₽",
+      "description": ""
+    },
+    {
+      "name": "Филе горбуши под шубкой",
+      "section": "Горячие блюда",
+      "priceLabel": "240 ₽",
+      "description": ""
+    },
+    {
+      "name": "Филе горбуши в сырной корочке",
+      "section": "Горячие блюда",
+      "priceLabel": "220 ₽",
+      "description": ""
+    },
+    {
+      "name": "Филе скумбрии под луковой шубкой в сливочном соусе",
+      "section": "Горячие блюда",
+      "priceLabel": "160 ₽",
+      "description": ""
+    },
+    {
+      "name": "Филе скумбрии под шубкой",
+      "section": "Горячие блюда",
+      "priceLabel": "180 ₽",
+      "description": ""
+    },
+    {
+      "name": "Стейк скумбрии с овощами",
+      "section": "Горячие блюда",
+      "priceLabel": "140 ₽",
+      "description": ""
+    },
+    {
+      "name": "Скумбрия, фаршированная овощами",
+      "section": "Горячие блюда",
+      "priceLabel": "120 / 150 ₽",
+      "description": ""
+    },
+    {
+      "name": "Соба с курицей",
+      "section": "Горячие блюда",
+      "priceLabel": "350 ₽",
+      "description": ""
+    },
+    {
+      "name": "Удон с курицей",
+      "section": "Горячие блюда",
+      "priceLabel": "350 ₽",
+      "description": ""
+    },
+    {
+      "name": "Запеканка картофельная с мясом",
+      "section": "Горячие блюда",
+      "priceLabel": "180 / 220 ₽",
+      "description": ""
+    },
+    {
+      "name": "Запеканка картофельная с курицей и овощами",
+      "section": "Горячие блюда",
+      "priceLabel": "250 ₽",
+      "description": ""
+    },
+    {
+      "name": "Котлеты в ассортименте",
+      "section": "Горячие блюда",
+      "priceLabel": "80 / 90 ₽",
+      "description": ""
+    },
+    {
+      "name": "Бифштексы с начинкой",
+      "section": "Горячие блюда",
+      "priceLabel": "95 / 110 ₽",
+      "description": ""
+    },
+    {
+      "name": "Тефтели или фрикадельки",
+      "section": "Горячие блюда",
+      "priceLabel": "60 / 90 ₽",
+      "description": ""
+    },
+    {
+      "name": "Гуляш",
+      "section": "Горячие блюда",
+      "priceLabel": "160 / 250 ₽",
+      "description": ""
+    },
+    {
+      "name": "Бедро, крыло или голень жареные",
+      "section": "Горячие блюда",
+      "priceLabel": "80 ₽",
+      "description": ""
+    },
+    {
+      "name": "Зразы мясные",
+      "section": "Горячие блюда",
+      "priceLabel": "90 / 120 ₽",
+      "description": ""
+    },
+    {
+      "name": "Мясо по-болгарски",
+      "section": "Горячие блюда",
+      "priceLabel": "160 / 250 ₽",
+      "description": ""
+    },
+    {
+      "name": "Мясная поджарка",
+      "section": "Горячие блюда",
+      "priceLabel": "160 / 250 ₽",
+      "description": ""
+    },
+    {
+      "name": "Мясо по-французски",
+      "section": "Горячие блюда",
+      "priceLabel": "160 / 300 ₽",
+      "description": ""
+    },
+    {
+      "name": "Шашлычок с овощами",
+      "section": "Горячие блюда",
+      "priceLabel": "250 / 350 ₽",
+      "description": ""
+    },
+    {
+      "name": "Печень в ассортименте",
+      "section": "Горячие блюда",
+      "priceLabel": "120 / 150 ₽",
+      "description": ""
+    },
+    {
+      "name": "Голубцы с мясом и соусом",
+      "section": "Горячие блюда",
+      "priceLabel": "110 / 150 ₽",
+      "description": ""
+    },
+    {
+      "name": "Косичка с изюмом и глазурью",
+      "section": "Сдобная выпечка",
+      "priceLabel": "40 / 50 ₽",
+      "description": ""
+    },
+    {
+      "name": "Слоёный конвертик с повидлом",
+      "section": "Сдобная выпечка",
+      "priceLabel": "50 ₽",
+      "description": ""
+    },
+    {
+      "name": "Круассан с начинкой",
+      "section": "Сдобная выпечка",
+      "priceLabel": "50 ₽",
+      "description": ""
+    },
+    {
+      "name": "Сметанник или творожник",
+      "section": "Сдобная выпечка",
+      "priceLabel": "50 / 60 ₽",
+      "description": ""
+    },
+    {
+      "name": "Манник",
+      "section": "Сдобная выпечка",
+      "priceLabel": "40 ₽",
+      "description": ""
+    },
+    {
+      "name": "Булочка «Улитка» глазированная",
+      "section": "Сдобная выпечка",
+      "priceLabel": "50 ₽",
+      "description": ""
+    },
+    {
+      "name": "Булочка «Двойняшка»",
+      "section": "Сдобная выпечка",
+      "priceLabel": "50 ₽",
+      "description": ""
+    },
+    {
+      "name": "Венгерка с творогом",
+      "section": "Сдобная выпечка",
+      "priceLabel": "50 ₽",
+      "description": ""
+    },
+    {
+      "name": "Булочка «Прикамская»",
+      "section": "Сдобная выпечка",
+      "priceLabel": "45 ₽",
+      "description": ""
+    },
+    {
+      "name": "Булочка с яблоками",
+      "section": "Сдобная выпечка",
+      "priceLabel": "40 ₽",
+      "description": ""
+    },
+    {
+      "name": "Булочка заливная с фруктами",
+      "section": "Сдобная выпечка",
+      "priceLabel": "50 ₽",
+      "description": ""
+    },
+    {
+      "name": "Кекс шоколадный с шоколадной начинкой",
+      "section": "Сдобная выпечка",
+      "priceLabel": "80 ₽",
+      "description": ""
+    },
+    {
+      "name": "Плюшка или вышка",
+      "section": "Сдобная выпечка",
+      "priceLabel": "35 ₽",
+      "description": ""
+    },
+    {
+      "name": "Булочка «Восьмёрка»",
+      "section": "Сдобная выпечка",
+      "priceLabel": "30 ₽",
+      "description": ""
+    },
+    {
+      "name": "Сочник с творогом",
+      "section": "Сдобная выпечка",
+      "priceLabel": "50 ₽",
+      "description": ""
+    },
+    {
+      "name": "Рожок с маком",
+      "section": "Сдобная выпечка",
+      "priceLabel": "50 ₽",
+      "description": ""
+    },
+    {
+      "name": "Плетёнка с яблоками",
+      "section": "Сдобная выпечка",
+      "priceLabel": "45 ₽",
+      "description": ""
+    },
+    {
+      "name": "Гребешок с начинкой",
+      "section": "Сдобная выпечка",
+      "priceLabel": "40 ₽",
+      "description": ""
+    },
+    {
+      "name": "Рулетик с творогом",
+      "section": "Сдобная выпечка",
+      "priceLabel": "50 ₽",
+      "description": ""
+    },
+    {
+      "name": "Кекс с изюмом, цукатами или курагой",
+      "section": "Сдобная выпечка",
+      "priceLabel": "60 ₽",
+      "description": ""
+    },
+    {
+      "name": "Кекс с сухофруктами глазированный",
+      "section": "Сдобная выпечка",
+      "priceLabel": "70 ₽",
+      "description": ""
+    },
+    {
+      "name": "Пончик глазированный",
+      "section": "Сдобная выпечка",
+      "priceLabel": "50 ₽",
+      "description": ""
+    },
+    {
+      "name": "Шаньга картофельная",
+      "section": "Сдобная выпечка",
+      "priceLabel": "40 ₽",
+      "description": ""
+    },
+    {
+      "name": "Шаньга творожная",
+      "section": "Сдобная выпечка",
+      "priceLabel": "50 ₽",
+      "description": ""
+    },
+    {
+      "name": "Слойка с начинкой",
+      "section": "Сдобная выпечка",
+      "priceLabel": "40 / 60 ₽",
+      "description": ""
+    }
+  ],
+  "categories": [
+    "Пицца, 30 см",
+    "Сладкие пироги, 1 кг",
+    "Пироги на заказ, 1 кг",
+    "Гарниры",
+    "Супы",
+    "Салаты",
+    "Горячие блюда",
+    "Сдобная выпечка"
+  ]
+}
